@@ -8,6 +8,7 @@
   "dependencies": {
     "bcrypt-nodejs": "*",
     "body-parser": "^1.15.2",
+    "canvas": "^1.4.0",
     "connect-flash": "*",
     "connect-mongo": "^1.2.1",
     "cookie-parser": "^1.4.3",
